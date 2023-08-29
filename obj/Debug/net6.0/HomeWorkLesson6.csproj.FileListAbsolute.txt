@@ -1,0 +1,15 @@
+D:\GeekBrains\StudyLanguageProgramm\HomeWork\HomeWorkLesson6\bin\Debug\net6.0\HomeWorkLesson6.exe
+D:\GeekBrains\StudyLanguageProgramm\HomeWork\HomeWorkLesson6\bin\Debug\net6.0\HomeWorkLesson6.deps.json
+D:\GeekBrains\StudyLanguageProgramm\HomeWork\HomeWorkLesson6\bin\Debug\net6.0\HomeWorkLesson6.runtimeconfig.json
+D:\GeekBrains\StudyLanguageProgramm\HomeWork\HomeWorkLesson6\bin\Debug\net6.0\HomeWorkLesson6.dll
+D:\GeekBrains\StudyLanguageProgramm\HomeWork\HomeWorkLesson6\bin\Debug\net6.0\HomeWorkLesson6.pdb
+D:\GeekBrains\StudyLanguageProgramm\HomeWork\HomeWorkLesson6\obj\Debug\net6.0\HomeWorkLesson6.csproj.AssemblyReference.cache
+D:\GeekBrains\StudyLanguageProgramm\HomeWork\HomeWorkLesson6\obj\Debug\net6.0\HomeWorkLesson6.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\StudyLanguageProgramm\HomeWork\HomeWorkLesson6\obj\Debug\net6.0\HomeWorkLesson6.AssemblyInfoInputs.cache
+D:\GeekBrains\StudyLanguageProgramm\HomeWork\HomeWorkLesson6\obj\Debug\net6.0\HomeWorkLesson6.AssemblyInfo.cs
+D:\GeekBrains\StudyLanguageProgramm\HomeWork\HomeWorkLesson6\obj\Debug\net6.0\HomeWorkLesson6.csproj.CoreCompileInputs.cache
+D:\GeekBrains\StudyLanguageProgramm\HomeWork\HomeWorkLesson6\obj\Debug\net6.0\HomeWorkLesson6.dll
+D:\GeekBrains\StudyLanguageProgramm\HomeWork\HomeWorkLesson6\obj\Debug\net6.0\refint\HomeWorkLesson6.dll
+D:\GeekBrains\StudyLanguageProgramm\HomeWork\HomeWorkLesson6\obj\Debug\net6.0\HomeWorkLesson6.pdb
+D:\GeekBrains\StudyLanguageProgramm\HomeWork\HomeWorkLesson6\obj\Debug\net6.0\HomeWorkLesson6.genruntimeconfig.cache
+D:\GeekBrains\StudyLanguageProgramm\HomeWork\HomeWorkLesson6\obj\Debug\net6.0\ref\HomeWorkLesson6.dll
